@@ -24,6 +24,11 @@
       "body": "some comment",
       "postId": 1
     }
+    {
+      "id": 3,
+      "body": "some other comment",
+      "postId": 2
+    }    
   ],
   "rates": [
     {
